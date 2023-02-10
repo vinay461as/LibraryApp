@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+media/
+
+# Unit test / coverage reports
+.pytest_cache/
+
+
+
+# Django stuff:
+*.log
+db.sqlite3
+
+# Environments
+.venv
+
+# mypy
+.mypy_cache/
+
+# all the IDEs (PyCharm, Visual Studio, emacs/vim)
+.idea
+.vscode/
+*~
+*.swp
+*.swo
+
